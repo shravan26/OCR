@@ -1,0 +1,14 @@
+body{
+  margin: 0px 0px 0px 0px;
+  padding: 0;
+  border: 0;
+  outline: 0;
+}
+
+.topbar{
+  margin:0;
+  border: 0;
+  background-color: #4550ef;
+  height: 50px;
+  width: 100%;
+}
